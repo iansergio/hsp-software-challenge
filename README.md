@@ -4,10 +4,7 @@ Desafio de desenvolvimento de um encurtador de URLs feito utilizando Java com Sp
 
 ## Stack
 
-Java 21
-Spring Boot
-Spring Data JPA
-Banco de Dados H2
+Java 21, Spring Boot, Spring Data JPA, Banco de Dados H2
 
 ## Funcionalidades
 
